@@ -1,0 +1,59 @@
+
+#body {
+    font-family: 'Nunito';
+  background-color:  #5d8fc9;
+   background-image: url('block.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+  }
+  #login-card{
+      width:350px;
+      border-radius: 25px;
+      margin:150px auto;
+      background: transparent;
+      border-color: aqua;
+      border-width: 5px;
+    
+  }
+  
+  #email{
+      border-radius:30px;
+      background-color: #ebf0fc;
+      border-color: #ebf0fc;
+      color: #9da3b0;
+  }
+  
+  #button{
+      border-radius:30px;
+      box-shadow: 0 0 20px cyan;
+  
+  }
+  
+  #btn{
+     position: absolute; 
+     bottom: -35px; 
+     padding: 5px;
+     margin: 0px 55px;
+     align-items: center;
+     
+  }
+  #container{
+      margin-top:25px;
+  }
+  
+  .btn-circle.btn-sm { 
+              width: 40px; 
+              height: 40px; 
+              padding: 2px 0px; 
+              border-radius: 25px; 
+              font-size: 14px; 
+              text-align: center;
+              margin: 8px;
+          }
+.container{
+    background-image: url('chat.jpg');
+}
+.text-center{
+    color:yellow;
+}
